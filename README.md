@@ -1,6 +1,10 @@
-# Backend сервиса по поиску ближайшего автосервиса
+# Сервис по поиску ближайшего автосервиса (backend)
 ***
 [Ретроспектива работы над проектом](https://github.com/OrdinaryWorker/find_car_service/PROJECT_WORKFLOW_DESCRIPTION.md)
+***
+[Сайт проекта](https://find-car-service.ru/)
+***
+[Репозиторий проекта](https://github.com/car-service-with-geolocation)
 ***
 ## Возможности сервиса:
 - сервис позволяет пользователю найти ближайший автосервис по указанным
